@@ -5,7 +5,7 @@ Repository ini untuk Pengumpulan Tugas-Tugas Mata Kuliah Pemogramman Berorientas
 - Tugas Pertemuan 10
 - Tugas Pertemuan 11.
 - Tugas Kalkulator.
-- Expressive, intuitive [Tugas Pengganti 6]([https://laravel.com/docs/eloquent](https://github.com/naufalharitsprasetia/matkul_pbo/tree/main/TugasPenggantiPertemuan6)).
+- Tugas [Tugas Pengganti 6](https://github.com/naufalharitsprasetia/matkul_pbo/tree/main/TugasPenggantiPertemuan6).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
